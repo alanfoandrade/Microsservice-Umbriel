@@ -1,2 +1,2 @@
-# NODE.JS-Base-typescript-project
-Template básico de um projeto NODE.JS utilizando typescript + eslint/prettier + sucrase e nodemon
+# Microsservice-Umbriel
+Serviço para envio de e-mails automatizado, utilizando MVP, Typescript, TDD, Patterns, NODE.js, Mongo e Redis
